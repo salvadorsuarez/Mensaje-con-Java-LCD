@@ -10,7 +10,7 @@
 - Hora 
 - Temperatura
 
-El Usuario podrá envíar un mensjae mediante un interfaz en Java que se verá plasmado en la pantalla LCD y al mimo tiempo mostra la Temperatura actual, Fecha y Hora en tiempo real y el mensaje ingresado libremente.
+El Usuario podrá envíar un mensjae mediante un interfaz creada en Java que se verá plasmado en la pantalla LCD y al mimo tiempo mostra la Temperatura actual, Fecha y Hora en tiempo real y el mensaje ingresado libremente.
 
 Programas:
 - Java
