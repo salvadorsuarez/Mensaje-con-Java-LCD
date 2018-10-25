@@ -17,6 +17,9 @@ Programas:
 - Java
 - Arduino IDE
 
+## Anexos.
+- Para la realización el proyecto se utilizo software libre.
+
 Materiales:
 - Protoboard
 - Arudino UNO
@@ -465,3 +468,5 @@ break;
 ## Referencias
 **link:** http://panamahitek.com/arduino-java-facil-y-rapido/<br />
 **link:** http://panamahitek.com/libreria-panamahitek_arduino/<br />
+
+
