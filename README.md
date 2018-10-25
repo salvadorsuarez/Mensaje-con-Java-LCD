@@ -6,8 +6,6 @@
 >Contacto: d.salvador0604@gmail.com
             tenshi_angee@hotmail.com
             
-            
-            ESTE ES UN MENSAJE DE PRIEBA ---------
 ## Arduino con un LCD desplegar.
 - Mensaje
 - Hora 
