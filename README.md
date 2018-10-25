@@ -4,6 +4,7 @@
              Diego Salvador Suarez Quijas
 
 >Contacto: d.salvador0604@gmail.com
+            tenshi_angee@hotmail.com
 
 ## Arduino con un LCD desplegar.
 - Mensaje
